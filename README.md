@@ -8,6 +8,10 @@ My approach is to do this on a Windows PC, so I can use the latest version of Do
 
 Note: My OpenWebRX+ instance is running on a Raspberry Pi 5.
 
+## Screenshot:
+
+![Screenshot](screenshot1.png)
+
 ## Resources:
 
 * Doxygen: https://www.doxygen.nl/
